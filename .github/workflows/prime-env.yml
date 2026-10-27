@@ -6,8 +6,9 @@ name: prime-env
 
 on:
   push:
+    branches: [main]
+    tags: ["env-v*"]   # paths filters are not evaluated for tag pushes
     paths: ["prime_env/**", ".github/workflows/prime-env.yml"]
-    tags: ["env-v*"]
   workflow_dispatch:
 
 permissions:
