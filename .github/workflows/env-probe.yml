@@ -47,8 +47,17 @@ jobs:
           .venv/bin/vf-debug "${{ inputs.env_id }}" -n 1 --runtime.type docker \
             --command "echo $B64 | base64 -d > /tmp/harness_probe.py && (python3 /tmp/harness_probe.py || python /tmp/harness_probe.py)" \
             2>&1 | tee probe.log
+      - name: Print what the probe saw (vf-debug stores command output in its results folder)
+        if: always()
+        run: |
+          find outputs -type f | head -50
+          for f in $(find outputs -type f \( -name '*.jsonl' -o -name '*.json' -o -name '*.log' -o -name '*.txt' \)); do
+            echo "===== $f"; head -c 30000 "$f"; echo
+          done
       - uses: actions/upload-artifact@v4
         if: always()
         with:
           name: env-probe
-          path: probe.log
+          path: |
+            probe.log
+            outputs/
