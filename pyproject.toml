@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "silicyte-bio-evals-sample"
+version = "0.1.0"
+description = "Four checkable biology AI-evaluation tasks: program-checkable keys, deterministic graders, controls that must fail, reward-hack logs."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT (code); CC BY 4.0 (task text and keys); data files keep their source licenses" }
+authors = [{ name = "Braxton Mensah (Silicyte)", email = "hello@silicyte.com" }]
+dependencies = ["inspect_ai", "numpy>=2.1", "scipy>=1.14", "gemmi>=0.6.5"]
+
+[project.urls]
+Homepage = "https://silicyte.com/evals"
+Repository = "https://github.com/braxtonmensah/silicyte-bio-evals-sample"
+
+[tool.setuptools]
+py-modules = ["inspect_tasks"]
+packages = ["evalkit"]
