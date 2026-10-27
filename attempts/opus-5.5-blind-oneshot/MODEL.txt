@@ -1,0 +1,1 @@
+Claude Opus 5.5 (sub-agent, read-only shell on the inputs, no code execution; see README.md)
