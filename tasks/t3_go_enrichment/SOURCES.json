@@ -1,0 +1,32 @@
+{
+ "files": [
+  {
+   "path": "inputs/go-basic.obo.gz",
+   "sha256": "c86ab5e77c26946ff811670d17af8fb29d14a56285280387ebdbac5e56446ed3",
+   "url": "https://release.geneontology.org/2026-08-05/ontology/go-basic.obo",
+   "license": "CC BY 4.0 (Gene Ontology Consortium: https://geneontology.org/docs/go-citation-policy/)",
+   "retrieved_utc": "2026-10-27T00:33Z",
+   "what": "GO basic ontology from the archived GO release 2026-08-05 (data-version releases/2026-07-26).",
+   "byte_identical_to_url": false,
+   "note": "Compressed by Silicyte with gzip -9 -n. The uncompressed file is byte-identical to the URL: SHA-256 of the uncompressed file is b08d45b268b8c24ccb2513dbbbc7d4df9f6521c099b413f79eb31e06e0fa3bcc."
+  },
+  {
+   "path": "inputs/HUMAN-uniprot.gaf.gz",
+   "sha256": "a0afba19dfb1f8fa996bc1bdcd61fd0c9bd4cf0d2bf2509d09ac86993c0e70a2",
+   "url": "https://release.geneontology.org/2026-08-05/annotations/gaf/HUMAN-uniprot.gaf.gz",
+   "license": "CC BY 4.0 (Gene Ontology Consortium and UniProt-GOA)",
+   "retrieved_utc": "2026-10-27T00:33Z",
+   "what": "Human GO annotations (GAF 2.2) from the same archived release.",
+   "byte_identical_to_url": true
+  },
+  {
+   "path": "inputs/study_genes.txt",
+   "sha256": "e43372ccff5a6ab1267e4a58a323737fb22b2354e87cbc8bbcb4acb192c1461c",
+   "url": null,
+   "license": "CC0 1.0 (written by Silicyte)",
+   "retrieved_utc": null,
+   "what": "The 30-gene study list: 24 sterol-synthesis and sterol-regulation genes plus 6 unrelated genes.",
+   "byte_identical_to_url": null
+  }
+ ]
+}

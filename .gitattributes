@@ -1,0 +1,2 @@
+# Keep every file byte-exact on every platform: the CI compares rebuilt files to committed ones by SHA-256.
+* -text

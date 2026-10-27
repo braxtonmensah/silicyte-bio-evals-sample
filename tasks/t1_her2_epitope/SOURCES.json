@@ -1,0 +1,13 @@
+{
+ "files": [
+  {
+   "path": "inputs/1N8Z.cif.gz",
+   "sha256": "3a59b29e39203f1bacc9147a8b143071c77b103c597a0a9e3bdfc6c965b70951",
+   "url": "https://files.rcsb.org/download/1N8Z.cif.gz",
+   "license": "CC0 1.0 (wwPDB usage policy: https://www.wwpdb.org/about/usage-policies)",
+   "retrieved_utc": "2026-10-27T00:33Z",
+   "what": "PDB entry 1N8Z: HER2 extracellular domain (chain C) in complex with the trastuzumab (Herceptin) Fab (light chain A, heavy chain B). Cho et al., Nature 421:756-760 (2003).",
+   "byte_identical_to_url": true
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+name: grade
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  grade:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install pinned dependencies
+        run: python -m pip install --no-cache-dir -r requirements.txt
+      - name: Rebuild keys, then grade key, controls, reward hacks and benign variations
+        run: python tools/run_ci.py
+      - name: Upload build directory
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: build/
+          retention-days: 90

@@ -1,0 +1,14 @@
+{
+ "files": [
+  {
+   "path": "sources/uniprot_human_signal_exp.tsv",
+   "sha256": "2435858a29e7c59d56496631dabe9cb4c06ca79e69e12b803db2167c835dcbba",
+   "url": "https://rest.uniprot.org/uniprotkb/stream?query=organism_id%3A9606+AND+reviewed%3Atrue+AND+ft_signal_exp%3A*&fields=accession%2Cgene_primary%2Clength%2Cft_signal%2Csequence&format=tsv",
+   "license": "CC BY 4.0 (UniProt: https://www.uniprot.org/help/license)",
+   "retrieved_utc": "2026-10-27T00:33Z",
+   "what": "All 742 reviewed human UniProtKB entries with an experimentally supported signal peptide, release 2026_03 (released 2026-09-02).",
+   "byte_identical_to_url": true,
+   "note": "UniProt REST results change with each release; this file is the release 2026_03 response."
+  }
+ ]
+}
