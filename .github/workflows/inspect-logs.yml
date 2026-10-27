@@ -1,0 +1,57 @@
+name: inspect-logs
+
+# Manual run: full Inspect runs of silicyte_bio_evals (all four samples) on two small open models served by Ollama on
+# the runner's CPU, in the task's Docker sandbox (no network; the container holds PROMPT.md and inputs/ only, so keys
+# and graders stay on the host). These are the two-model logs the Inspect Evals Register asks for. $0: no API keys.
+
+on:
+  workflow_dispatch:
+    inputs:
+      models:
+        description: "Space-separated Ollama model tags"
+        required: true
+        default: "qwen2.5:3b llama3.2:3b"
+      message_limit:
+        description: "Messages per sample (the task default is 80; CPU inference is slow)"
+        required: true
+        default: "30"
+
+permissions:
+  contents: read
+
+jobs:
+  logs:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install the package with Inspect
+        run: python -m pip install --no-cache-dir -r requirements.txt -e . openai
+      - name: Install and start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          (ollama serve > ollama.log 2>&1 &)
+          for i in $(seq 1 30); do curl -sf http://localhost:11434/api/tags >/dev/null && break; sleep 2; done
+      - name: Pull the models
+        run: for m in ${{ inputs.models }}; do ollama pull "$m"; done
+      - name: Build the sandbox image once
+        run: docker compose -f compose.yaml build
+      - name: Run every sample on each model
+        env:
+          OLLAMA_BASE_URL: http://localhost:11434/v1
+        run: |
+          for m in ${{ inputs.models }}; do
+            inspect eval silicyte_bio_evals/silicyte_bio_evals --model "ollama/$m" \
+              --message-limit ${{ inputs.message_limit }} --max-samples 2 --log-dir logs --log-format eval || true
+          done
+          ls -la logs
+      - name: Upload the logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: inspect-logs
+          path: logs/
+          retention-days: 90
