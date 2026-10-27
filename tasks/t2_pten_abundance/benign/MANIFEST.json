@@ -1,0 +1,14 @@
+{
+ "affine_transform": {
+  "description": "10 x score + 3; Spearman is rank-based, so this must still pass.",
+  "expected": "PASS"
+ },
+ "integer_ranks": {
+  "description": "Integer ranks instead of scores.",
+  "expected": "PASS"
+ },
+ "reversed_key_order": {
+  "description": "Variants listed in reverse order.",
+  "expected": "PASS"
+ }
+}

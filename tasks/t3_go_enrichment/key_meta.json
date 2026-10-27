@@ -1,0 +1,45 @@
+{
+ "K_range": [
+  5,
+  500
+ ],
+ "N_universe_genes": 16846,
+ "controls_skipped_identical": [
+  {
+   "name": "alt_ids_dropped",
+   "reason": "identical to the key for this release and gene list"
+  }
+ ],
+ "cross_check": "hypergeometric tail and BH match scipy.stats.hypergeom and false_discovery_control",
+ "gaf_rows_used_after_db_and_aspect_filter": 184219,
+ "m_tested_terms": 7149,
+ "n_significant_terms": 22,
+ "n_study_genes_in_universe": 30,
+ "q_threshold": 0.01,
+ "significant_term_names": {
+  "GO:0001920": "negative regulation of receptor recycling",
+  "GO:0006066": "alcohol metabolic process",
+  "GO:0006084": "acetyl-CoA metabolic process",
+  "GO:0006637": "acyl-CoA metabolic process",
+  "GO:0006644": "phospholipid metabolic process",
+  "GO:0006694": "steroid biosynthetic process",
+  "GO:0006695": "cholesterol biosynthetic process",
+  "GO:0006720": "isoprenoid metabolic process",
+  "GO:0006984": "ER-nucleus signaling pathway",
+  "GO:0008202": "steroid metabolic process",
+  "GO:0008203": "cholesterol metabolic process",
+  "GO:0008299": "isoprenoid biosynthetic process",
+  "GO:0009240": "isopentenyl diphosphate biosynthetic process",
+  "GO:0016125": "sterol metabolic process",
+  "GO:0016126": "sterol biosynthetic process",
+  "GO:0044283": "small molecule biosynthetic process",
+  "GO:0046165": "alcohol biosynthetic process",
+  "GO:0046490": "isopentenyl diphosphate metabolic process",
+  "GO:1900221": "regulation of amyloid-beta clearance",
+  "GO:1900222": "negative regulation of amyloid-beta clearance",
+  "GO:1902652": "secondary alcohol metabolic process",
+  "GO:1902653": "secondary alcohol biosynthetic process"
+ },
+ "smallest_relative_distance_of_any_q_to_threshold": 0.007045,
+ "study_genes_not_in_universe": []
+}

@@ -1,0 +1,17 @@
+{
+ "antigen_atoms_used": 4491,
+ "controls_skipped_identical": [
+  {
+   "name": "label_numbering",
+   "reason": "identical to the key for this structure"
+  }
+ ],
+ "cross_check": "pure-Python grid and gemmi+NumPy brute force agree exactly",
+ "cutoff_angstrom": 4.0,
+ "fab_atoms_used": 3287,
+ "n_contacted_by_A_only": 7,
+ "n_contacted_by_B_only": 7,
+ "n_contacted_by_both": 3,
+ "n_epitope_residues": 17,
+ "smallest_abs_distance_minus_cutoff": 0.0015
+}

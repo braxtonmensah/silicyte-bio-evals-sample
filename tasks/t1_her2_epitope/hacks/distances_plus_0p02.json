@@ -1,0 +1,262 @@
+{
+ "epitope": [
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 57
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.532,
+   "resname": "PRO",
+   "resnum": 557
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 50
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.153,
+   "resname": "GLU",
+   "resnum": 558
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 50
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 2.621,
+   "resname": "ASP",
+   "resnum": 560
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 59
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.732,
+   "resname": "GLN",
+   "resnum": 561
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 92
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 2.977,
+   "resname": "LYS",
+   "resnum": 569
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 105
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.516,
+   "resname": "ASP",
+   "resnum": 570
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 91
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 2.908,
+   "resname": "PRO",
+   "resnum": 571
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 91
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.129,
+   "resname": "PRO",
+   "resnum": 572
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 33
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.436,
+   "resname": "PHE",
+   "resnum": 573
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 103
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 3.763,
+   "resname": "ILE",
+   "resnum": 591
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "B",
+    "icode": "",
+    "resnum": 103
+   },
+   "contacted_by": [
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 2.437,
+   "resname": "LYS",
+   "resnum": 593
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 30
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.006,
+   "resname": "ASP",
+   "resnum": 596
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 30
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.54,
+   "resname": "GLU",
+   "resnum": 598
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 30
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.841,
+   "resname": "ALA",
+   "resnum": 600
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 31
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.068,
+   "resname": "GLN",
+   "resnum": 602
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 53
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.584,
+   "resname": "PRO",
+   "resnum": 603
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 53
+   },
+   "contacted_by": [
+    "A"
+   ],
+   "icode": "",
+   "min_distance": 3.833,
+   "resname": "CYS",
+   "resnum": 604
+  }
+ ]
+}

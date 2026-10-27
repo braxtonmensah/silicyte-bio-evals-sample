@@ -1,0 +1,9300 @@
+{
+ "epitope": [
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 1
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 2
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 3
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 4
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 5
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 6
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 7
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 8
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "MET",
+   "resnum": 9
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 10
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 11
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 12
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 13
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 14
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 15
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 16
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 17
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 18
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 19
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 20
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 21
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 22
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "MET",
+   "resnum": 23
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 24
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 25
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 26
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 27
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 28
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 29
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 30
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 31
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 32
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 33
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 34
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 35
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 36
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 37
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 38
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 39
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 40
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 41
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 42
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 43
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 44
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 45
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 46
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 47
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 48
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 49
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 50
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 51
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 52
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 53
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 54
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 55
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 56
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 57
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 58
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 59
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 60
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 61
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 62
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 63
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 64
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 65
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 66
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 67
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 68
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 69
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 70
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 71
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 72
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 73
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 74
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 75
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 76
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 77
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 78
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 79
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 80
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 81
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 82
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 83
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 84
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 85
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 86
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 87
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 88
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 89
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 90
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 91
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 92
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 93
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 94
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 95
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 96
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 97
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 98
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 99
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 100
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 101
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 111
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 112
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 113
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 114
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 115
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 116
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 117
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 118
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 119
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 120
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 121
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 122
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 123
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 124
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 125
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 126
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 127
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 128
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 129
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 130
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 131
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 132
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 133
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 134
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 135
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 136
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 137
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 138
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 139
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 140
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 141
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 142
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 143
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 144
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 145
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 146
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 147
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 148
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 149
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 150
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 151
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 152
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 153
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 154
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 155
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 156
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 157
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 158
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 159
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 160
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 161
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 162
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 163
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 164
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 165
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 166
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 167
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 168
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 169
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 170
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 171
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 172
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 173
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 174
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 175
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "MET",
+   "resnum": 176
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 177
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 178
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 179
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 180
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 181
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 182
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 183
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 184
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 185
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 186
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 187
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 188
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 189
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 190
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 191
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 192
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 193
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 194
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 195
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 196
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 197
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 198
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 199
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 200
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 201
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 202
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 203
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 204
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 205
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 206
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 207
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 208
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 209
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 210
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 211
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 212
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 213
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 214
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 215
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 216
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 217
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 218
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 219
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 220
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 221
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 222
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 223
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 224
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 225
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 226
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 227
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 228
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 229
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 230
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 231
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 232
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 233
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 234
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 235
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 236
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 237
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 238
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 239
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 240
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 241
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 242
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 243
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 244
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 245
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 246
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 247
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 248
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 249
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 250
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 251
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 252
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 253
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 254
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 255
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 256
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 257
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 258
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 259
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "MET",
+   "resnum": 260
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 261
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 262
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 263
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 264
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 265
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 266
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 267
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 268
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 269
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 270
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 271
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 272
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 273
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 274
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 275
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 276
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 277
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 278
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 279
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 280
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 281
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 282
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 283
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 284
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 285
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 286
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 287
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 288
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 289
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 290
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 291
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 292
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 293
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 294
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 295
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 296
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 297
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 298
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 299
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 300
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 301
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 302
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 306
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 307
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 308
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 309
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 310
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 311
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 312
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 313
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 314
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 315
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 316
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 317
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 318
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 319
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 320
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 321
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 322
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 323
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 324
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "MET",
+   "resnum": 325
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 326
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 327
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 328
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 329
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 330
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 331
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 332
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 333
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 334
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 335
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 336
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 337
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 338
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 339
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 340
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 341
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 342
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 343
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 344
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 345
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 346
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 347
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 348
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 349
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 350
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 351
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 352
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 353
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 354
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 355
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 356
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 357
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 358
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 359
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 360
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 365
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 366
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 367
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 368
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 369
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 370
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 371
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 372
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 373
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 374
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 375
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 376
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 377
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 378
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 379
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 380
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 381
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 382
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 383
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 384
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 385
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 386
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 387
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 388
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 389
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 390
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 391
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 392
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 393
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 394
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 395
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 396
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 397
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 398
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 399
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 400
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 401
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 402
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 403
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 404
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 405
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 406
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 407
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 408
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 409
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 410
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 411
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 412
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 413
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 414
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 415
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 416
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 417
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 418
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 419
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 420
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 421
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 422
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 423
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 424
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 425
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 426
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 427
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 428
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 429
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 430
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 431
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 432
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 433
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 434
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 435
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 436
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 437
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 438
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 439
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 440
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 441
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 442
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 443
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 444
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 445
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 446
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 447
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 448
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 449
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 450
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 451
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 452
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 453
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 454
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 455
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 456
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 457
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 458
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 459
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 460
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 461
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 462
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 463
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 464
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 465
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 466
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 467
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 468
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 469
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 470
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 471
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 472
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 473
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 474
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 475
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 476
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 477
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 478
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 479
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 480
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 481
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 482
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 483
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 484
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 485
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 486
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 487
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 488
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 489
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 490
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 491
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 492
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 493
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 494
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 495
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 496
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 497
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 498
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 499
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 500
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 501
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 502
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 503
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 504
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 505
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 506
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 507
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 508
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 509
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 510
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 511
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 512
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 513
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 514
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 515
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 516
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 517
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 518
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 519
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 520
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 521
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 522
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 523
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 524
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 525
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 526
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 527
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 528
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 529
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 530
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 531
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 532
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 533
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 534
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 535
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 536
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 537
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 538
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LEU",
+   "resnum": 539
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 540
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 541
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 542
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 543
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 544
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 545
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 546
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 547
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 548
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 549
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 550
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 551
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 552
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "THR",
+   "resnum": 553
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 554
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 555
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 556
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 557
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 558
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 559
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 560
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 561
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 562
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 563
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 564
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 565
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 566
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "HIS",
+   "resnum": 567
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TYR",
+   "resnum": 568
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 569
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 570
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 571
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 572
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 573
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 574
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "VAL",
+   "resnum": 575
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 576
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ARG",
+   "resnum": 577
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 578
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 579
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "SER",
+   "resnum": 580
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 591
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "TRP",
+   "resnum": 592
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "LYS",
+   "resnum": 593
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PHE",
+   "resnum": 594
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 595
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASP",
+   "resnum": 596
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 597
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLU",
+   "resnum": 598
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLY",
+   "resnum": 599
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ALA",
+   "resnum": 600
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 601
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "GLN",
+   "resnum": 602
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 603
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "CYS",
+   "resnum": 604
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "PRO",
+   "resnum": 605
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ILE",
+   "resnum": 606
+  },
+  {
+   "chain": "C",
+   "closest": {
+    "chain": "A",
+    "icode": "",
+    "resnum": 1
+   },
+   "contacted_by": [
+    "A",
+    "B"
+   ],
+   "icode": "",
+   "min_distance": 0.0,
+   "resname": "ASN",
+   "resnum": 607
+  }
+ ]
+}

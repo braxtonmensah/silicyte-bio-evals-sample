@@ -1,0 +1,23 @@
+Code (evalkit/, tools/, tasks/*/build.py, tasks/*/grade.py, .github/): MIT License
+
+Copyright (c) 2026 Braxton Mensah (Silicyte)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Task text (tasks/*/PROMPT.md), documentation and the generated keys, controls and logs: CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/). Credit: Silicyte, silicyte.com.
+
+Data files keep their source licenses, recorded per file in tasks/*/SOURCES.json and DATA_SOURCES.md:
+PDB 1N8Z and MaveDB urn:mavedb:00000013-a-1 are CC0 1.0; UniProt and Gene Ontology files are CC BY 4.0.
+Files derived from a CC BY 4.0 source (t4 inputs and key, t3 key) carry that source's attribution requirement.
