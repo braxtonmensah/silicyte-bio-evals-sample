@@ -44,7 +44,7 @@ jobs:
       - name: Run the probe inside the agent sandbox, after setup
         run: |
           B64=$(base64 -w0 tools/harness_probe.py)
-          uv run vf-debug "${{ inputs.env_id }}" -n 1 --runtime.type docker \
+          .venv/bin/vf-debug "${{ inputs.env_id }}" -n 1 --runtime.type docker \
             --command "echo $B64 | base64 -d > /tmp/harness_probe.py && (python3 /tmp/harness_probe.py || python /tmp/harness_probe.py)" \
             2>&1 | tee probe.log
       - uses: actions/upload-artifact@v4
