@@ -31,3 +31,8 @@ evalkit = "evalkit"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.inspect-evals-lint]
+# eval.yaml is required by the single-eval preset but not by the Inspect Evals Register, whose bot generates the
+# listing's eval.yaml itself (REGISTER_CONFIG sets eval_yaml_required = False).
+per-file-ignores = { "src/silicyte_bio_evals/**" = ["eval_yaml"] }
