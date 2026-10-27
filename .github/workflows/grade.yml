@@ -38,12 +38,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install dependencies and Inspect
-        run: python -m pip install --no-cache-dir -r requirements.txt inspect-ai
+      - name: Install the package with Inspect and pytest
+        run: python -m pip install --no-cache-dir -r requirements.txt -e ".[test]"
       - name: Record the Inspect version
         run: python -c "import inspect_ai; print('inspect_ai', inspect_ai.__version__)"
-      - name: Oracle must score CORRECT and an empty answer INCORRECT on every sample (offline mock model)
-        run: python tools/check_inspect.py
+      - name: Oracle CORRECT and an empty answer INCORRECT on every sample (offline mock model)
+        run: python -m pytest -q
 
   inspect-lint:
     runs-on: ubuntu-24.04
